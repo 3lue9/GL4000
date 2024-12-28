@@ -1,0 +1,8 @@
+24:0   Note on                 0, note 48, velocity 127
+
+24:0 = dispositivo da cui è stato ricevuto il messaggio
+Note on = è stato premuto
+0 = canale su cui è stato premuto
+note 48 = ?
+velocity 127 = 127 è on
+

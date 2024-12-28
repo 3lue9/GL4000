@@ -1,0 +1,4 @@
+Waiting for data. Press Ctrl+C to end.
+Source  Event                  Ch  Data
+ 24:0   Note on                 0, note 48, velocity 127
+ 24:0   Note off                0, note 48
